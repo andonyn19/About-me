@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @andonyn19
-- 🌱 I’m currently learning WebDev.
+- 🌱 I’m currently learning Web Development.
 - 📫 Reach me at andonynunez@gmail.com
 
 <!---
