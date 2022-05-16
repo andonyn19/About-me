@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @andonyn19
-- 🌱 I’m currently learning React.
-https://linktr.ee/andont
+- 🌱 I’m currently learning Frontend Development.
 
 <!---
 andonyn19/andonyn19 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
